@@ -9,8 +9,11 @@ html,body{
 .text-justify{
 	text-align: justify !important;
 }
-.modal{
+/* .modal{
 	overflow-y: hidden !important;
+} */
+.modal-open{
+	overflow: hidden !important;
 }
 .rating{
 	float: left;
