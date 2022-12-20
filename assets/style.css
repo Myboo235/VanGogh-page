@@ -1,4 +1,17 @@
 /*styling star rating*/
+*{
+	padding: 0;
+	margin: 0;
+}
+html,body{
+	overflow-x: hidden;
+}
+.text-justify{
+	text-align: justify !important;
+}
+.modal{
+	overflow-y: hidden !important;
+}
 .rating{
 	float: left;
     margin-left: 20px;
